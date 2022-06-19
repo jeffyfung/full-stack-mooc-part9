@@ -1,0 +1,12 @@
+[submodule "full-stack-mooc-patientor-frontend"]
+	path = full-stack-mooc-patientor-frontend
+	url = https://github.com/jeffyfung/full-stack-mooc-patientor-frontend
+[submodule "full-stack-mooc-part9-patientor"]
+	path = full-stack-mooc-part9-patientor
+	url = https://github.com/jeffyfung/full-stack-mooc-part9-patientor
+[submodule "full-stack-mooc-part9-frontend"]
+	path = full-stack-mooc-part9-frontend
+	url = https://github.com/jeffyfung/full-stack-mooc-part9-frontend
+[submodule "full-stack-mooc-part9-exercises"]
+	path = full-stack-mooc-part9-exercises
+	url = https://github.com/jeffyfung/full-stack-mooc-part9-exercises
